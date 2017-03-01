@@ -95,7 +95,26 @@ posibles objetivos incluyen:
   largo plazo.
 * Crear visualizaciones orignales e intractivas de estos datos.
 
+Coordinando este proyecto desde la OSL estará
+[Pablo](http://github.com/psicobyte). 
 
+Para colaborar en este proyecto necesitamos
+* Personas con conocimientos de visualización de datos.
+* Personas con conocimiento de extracción de datos de la web
+  (*scraping*).
+* Personas con conocimientos de programación *front-end*.
+* Personas que sean capaces, a partir de los datos, de generar un
+  informe o crear una historia periodística.
+
+
+### Patrimonio de Granada en la Wikipedia y Wikidata
+
+El patrimonio de la UGR está relativamente mal representado en la
+Wikipedia, con sólo algunos edificios emblemáticos, y dentro de estos
+poca presencia en
+[Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page), una
+parte más desconocida de la wikipedia pero que permite, por ejemplo,
+trabajar con datos de forma cuantitativa y precisa.  
 
 # Cuándo
 
