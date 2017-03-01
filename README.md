@@ -76,6 +76,27 @@ web, aunque no se aconseja. Por lo mismo, conviene que se abra
 previamente al hackatón una cuenta en el GitHub mencionado
 anteriormente. 
 
+### Carreras en cifras
+
+Es un conjunto de datos sobre el que hemos venido trabajando a lo
+largo de los años, así que merece la pena que lo actualicemos y
+sigamos trabajando sobre él. El principal objetivo es analizar y
+visualizar la desigualdad de género en las diferentes carreras
+universitarias y su evolución a lo largo del tiempo. Trabajaremos en
+[este repositorio](https://github.com/oslugr/carreras-en-cifras) y
+posibles objetivos incluyen:
+* Actualizar los datos al año en curso.
+* Buscar datos de otras universidades y nacionales y analizarlos.
+* Buscar correlación de estos datos con datos estadísticos de otro
+  tipo: geográficos, empleabilidad, procedencia geográfica,
+  demográficos.
+* Relacionarlos con datos estadísticos de empleos y realizar
+  predicciones sobre equilibrio de género en esas carreras a medio y
+  largo plazo.
+* Crear visualizaciones orignales e intractivas de estos datos.
+
+
+
 # Cuándo
 
 Comenzaremos el sábado alrededor de las 10 de la mañana,
