@@ -114,7 +114,28 @@ Wikipedia, con sólo algunos edificios emblemáticos, y dentro de estos
 poca presencia en
 [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page), una
 parte más desconocida de la wikipedia pero que permite, por ejemplo,
-trabajar con datos de forma cuantitativa y precisa.  
+trabajar con datos de forma cuantitativa y precisa. Se trabajará sobre
+[este repositorio](https://github.com/oslugr/patrimonioAbierto)
+
+Diferentes subproyectos incluirán
+* Uso de un cliente de la Wikipedia para crear automáticamente páginas
+  a partir del contenido de la web de Patrimonio, que tiene licencia
+  libre, con una posterior *curación* del mismo añadiéndole citas y, en
+  su caso, imágenes.
+* Uso de clientes de Wikidata para incluir automáticamente datos sobre
+  los edificios patrimonio en la misma.
+* Creación de *queries* para recopilar datos sobre Patrimonio UGR
+* Visualización de datos de Patrimonio en un mapa a partir de la
+  extracción automática de datos de la Wikipedia
+* Creación automática de rutas sobre Patrimonio de la UGR de acuerdo
+  con algún perfil.
+  
+En la OSL será [Germán](http://github.com/germaaan) quien esté a cargo
+de este proyecto, junto con
+[Chá Lucena](https://github.com/chalucena). El producto final será el
+mapa, que se debería actualizar automáticamente según se añadan nuevos
+elementos a la Wikipedia. 
+
 
 # Cuándo
 
@@ -124,7 +145,8 @@ delante. También buscando espacios dentro de la Corrala donde todos
 podamos trabajar cómodamente. Terminaremos el domingo por la tarde,
 con una presentación del trabajo realizado o simplemente yéndonos de
 cervezas. El trabajo en un hackatón es muy auto-organizado, pero lo
-interesante es que haya algo tangible al final del mismo.
+interesante es que haya algo tangible al final del mismo y se presente
+aquí. 
 
 # Por qué
 
