@@ -49,10 +49,43 @@ comentarios de la página de inscripción.
 # Cómo
 
 El Open Data Day incluirá interesantes talleres sobre Patrimonio en la
-UGR, que se convertirá en un proyecto si hay interés suficiente, y una
-mesa redonda con representantes de Transparencia de diferentes
-instituciones granadinas. 
+UGR, que se convertirá en un proyecto si hay interés suficiente. 
+
+Muy importante: **tráete tu portátil**. La mejor forma de colaborar
+con el hackatón es trabajando con un teclado. Un *tablet* puede ser la
+segunda mejor cosa, sobre todo si te dedicas a visualizar o a probar,
+pero lo mejor es que ayudes escribiendo, programando o probando. 
+
+Tampoco es necesario que estés allí todo el tiempo. Puedes ir y venir,
+trabajar en tu casa o dejar de hacerlo. Cuanto más tiempo estés, más
+ocasiones tendrás de aprender y de conocer gente, así como contribuir
+al esfuerzo conjunto. Pero no es estrictamente necesario.
+
+La Corrala está conectada a la red de la
+[universidad](https://www.ugr.es), y tendremos cuentas de invitados
+para las personas que no tengan cuenta en la misma. 
+
+## Cómo trabajar con los diferentes proyectos.
+
+Se trabajará en [GitHub](https://github.com) en todos los proyectos,
+por lo que hacen falta, al menos, conocimientos de
+[git](https://mini-git.github.io/) para poder trabajar con él. En el
+caso de que no lo conozcas, te podemos ayudar sobre la marcha con una
+tutoría personalizada, no te preocupes. También se puede usar desde la
+web, aunque no se aconseja. Por lo mismo, conviene que se abra
+previamente al hackatón una cuenta en el GitHub mencionado
+anteriormente. 
 
 # Cuándo
 
+Comenzaremos el sábado alrededor de las 10 de la mañana,
+conociéndonos, formando grupos y viendo el trabajo que hay por
+delante. También buscando espacios dentro de la Corrala donde todos
+podamos trabajar cómodamente. Terminaremos el domingo por la tarde,
+con una presentación del trabajo realizado o simplemente yéndonos de
+cervezas. El trabajo en un hackatón es muy auto-organizado, pero lo
+interesante es que haya algo tangible al final del mismo.
+
 # Por qué
+
+
