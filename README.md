@@ -148,7 +148,7 @@ que depositan los resultados en
 [esta página](http://www.juntadeandalucia.es/medioambiente/atmosfera/informes_siva/feb17/ngr170201.htm). Hay
 que extraer periódicamente los resultados de esa página y publicarlos;
 ese será el foco principal de este subproyecto coordinado en la OSL
-por [JJ](http://github.com/JJ). Trabajaremos sobre este [repositorio](http://github.com/oslugr/contaminAND)
+por [JJ](http://github.com/JJ), [Renato](http://github.com/renatolrr) y [Manu](http://github.com/Makova). Trabajaremos sobre este [repositorio](http://github.com/oslugr/contaminAND)
 
 Los diferentes subproyectos que se incluyen en este son:
 * Extracción de datos de la página arriba indicada y almacenamiento de
